@@ -1,0 +1,6 @@
+warna base putih, warna font oren
+navbar boleh kiri / tengah brand tulisan font samain logo
+navbar ada home, product, contact us (ig,titok,shoope,tokped,wa,email)
+landing page : logo, sama tulisan copiaonthe go gede
+halaman product : our product, gambar kiri warna bg sesuai product
+halaman testimoni dibawah product
