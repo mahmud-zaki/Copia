@@ -13,9 +13,7 @@
       <div class="col-6 col-md-2 mb-3">
         <h5>Social</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img src="assets/img/twit.png" class="img-fluid" width="25px" alt=""> Twitter</a></li>
           <li class="nav-item mb-2"><a href="https://instagram.com/copia.otg" target="_blank" class="nav-link p-0 text-muted"><img src="assets/img/instagram.png" class="img-fluid" width="25px" alt=""> Instagram</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img src="assets/img/facebook.png" class="img-fluid" width="25px" alt=""> Facebook</a></li>
           <li class="nav-item mb-2"><a href="https://wa.me/+6285771235434" target="_blank" class="nav-link p-0 text-muted"><img src="assets/img/whatapp.png" class="img-fluid" width="25px" alt=""> Whatsapp</a></li>
           <li class="nav-item mb-2"><a href="https://www.tiktok.com/@copiaonthegowhat" target="_blank" class="nav-link p-0 text-muted"><img src="assets/img/tiktok.png" class="img-fluid" width="25px" alt=""> Tiktok</a></li>
         </ul>
@@ -32,9 +30,9 @@
       <div class="col-6 col-md-2 mb-3">
         <h5>Store</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img src="assets/img/aeon.png" class="img-fluid" width="95px" alt=""></a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img src="assets/img/lotte.png" class="img-fluid" width="95px" alt=""></a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img src="assets/img/hero.png" class="img-fluid" width="95px" alt=""></a></li>
+          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted"><img src="assets/img/aeon.png" class="img-fluid" width="95px" alt=""></a></li>
+          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted"><img src="assets/img/lotte.png" class="img-fluid" width="95px" alt=""></a></li>
+          <li class="nav-item mb-2"><a class="nav-link p-0 text-muted"><img src="assets/img/hero.png" class="img-fluid" width="95px" alt=""></a></li>
         </ul>
       </div>
 
