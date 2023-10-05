@@ -39,7 +39,7 @@ class Posting extends CI_Controller
             $this->session->set_flashdata('message', '<div class="alert alert-success" role="alert">
             Produk baru ditambahkan !
             </div>');
-            redirect('postimg');
+            redirect('posting');
         }
     }
 }

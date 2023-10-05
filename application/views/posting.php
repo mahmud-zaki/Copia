@@ -7,16 +7,16 @@
             <div class="card">
                 <div class="card-body">
                     <label class="col-md-12">Tambah Produk</label>
-                    <?= form_open_multipart('postimg'); ?>
+                    <?= form_open_multipart('posting'); ?>
                     <div class="form-group">
                         <div class="col-md-12">
                             <input type="text" name="id_produk" id="id_produk" class="form-control" value="PROD_<?= random_string('numeric', 3); ?>">
                         </div>
                     </div>
                     <div class="form-group">
-                        <label class="col-md-12">Link shoope<small class="text-danger">*Wajib diisi</small></label>
+                        <label class="col-md-12">Link produk shoope<small class="text-danger">*Wajib diisi</small></label>
                         <div class="col-md-12">
-                            <input type="text" name="link" id="link" class="form-control">
+                            <input type="text" name="link" id="link" class="form-control" required>
                         </div>
                     </div>
                     <div class="form-group row">
