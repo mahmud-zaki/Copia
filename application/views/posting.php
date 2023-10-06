@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-body">
                     <label class="col-md-12">Tambah Produk</label>
-                    <?= form_open_multipart('posting'); ?>
+                    <?= form_open_multipart('posting/upload_post'); ?>
                     <div class="form-group">
                         <div class="col-md-12">
                             <input type="text" name="id_produk" id="id_produk" class="form-control" value="PROD_<?= random_string('numeric', 3); ?>">
